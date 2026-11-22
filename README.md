@@ -24,6 +24,28 @@ The report uses an embedded sample of credit card transactions from January 2019
 
 Use the **Month**, **Category**, **State**, and **Gender** slicers to narrow the analysis. Select a chart bar or data point to cross-filter compatible visuals on the same page. When comparing segments, review fraud rate alongside transaction volume to give each rate context.
 
+## Dashboard screenshots
+
+### 1. Fraud Overview
+
+![Fraud Overview dashboard](./screenshots/secureguard-page-1.jpg)
+
+### 2. Fraud Patterns
+
+![Fraud Patterns dashboard](./screenshots/secureguard-page-2.jpg)
+
+### 3. Risk Insights
+
+![Risk Insights dashboard](./screenshots/secureguard-page-3.jpg)
+
+### 4. Customer Profile
+
+![Customer Profile dashboard](./screenshots/secureguard-page-4.jpg)
+
+### 5. Geography & Spend
+
+![Geography & Spend dashboard](./screenshots/secureguard-page-5.jpg)
+
 ## Tools and skills
 
 - **Power BI Desktop** for interactive report authoring and visualization
